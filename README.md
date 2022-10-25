@@ -53,8 +53,10 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 01.11.22     |   Angelov        |    Die Eingabe des Namen des Benutzers wird in einem Array gespeichert. Das Programm ist absturzsicher.         |    30min           |
+| 2.A  | 01.1122      |    Marku       |     Die Eingaben der Favouriten des Benutzers werden in einem Array (0,1,2 / 3,4,5 / etc.) gespeichert. Das Programm ist absturzsicher.         |   45min            |
+| 3.A  | 01.1122      |   Atputharasa        | Die Eingaben aller Benutzer werden als Textdokument(?) gespeichert. Das Programm ist absturzsicher.             |         60min      |
+| 4.A  | 01.1122      |  Tanner, von Rogall     | Die Eingaben aller Benutzer werden aus der Datei ausgelesen. Das Programm verwendet diese um die Benutzer automatisch den verschiedenen Kursen zuzuteilen. Das Programm ist absturzsicher             |     180min          |
 
 Total: 
 
