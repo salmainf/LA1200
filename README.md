@@ -6,7 +6,8 @@ Gruppenprojekt von Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+
+Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
