@@ -1,13 +1,13 @@
-#LA1200 
 
-Gruppenprojekt von Angelov, Atputharasa,Marku,Tanner,von Rogall
+#La1200
+
 
 # Projekt-Dokumentation
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 
-Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
+Elefant: Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
