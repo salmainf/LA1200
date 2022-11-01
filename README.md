@@ -55,17 +55,17 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 01.11.22     |   Angelov        |    Die Eingabe des Namen des Benutzers wird gespeichert. |    40min    |
 | 1.B  | 01.11.22      |    Angelov       |     Das Programm ist absturzsicher.       |   20min      |
-| 2.A  | 08.11.22      |   Marku        | Die Eingaben der Favouriten des Benutzers werden gespeichert.  |   60min   |
-| 2.B  | 01.1122      | Marku     | Das Programm ist absturzsicher.         |     15min          |
-| 2.C  | 01.1122      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     40min   |
-| 3.A  | 01.1122      |  Atputharasa     | Alle Eingaben des Benutzers werden in eine Datei abgespeichert.  |  90min  |
-| 3.B  | 01.1122      |  Atputharasa     | Der Benutzer kann den Speicherort und den Namen der Datei frei wählen.             |     25min          |
-| 3.C  | 01.1122      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
-| 3.D  | 01.1122      |  Atputharasa     | Das Programm ist absturzsicher.            |     15min          |
-| 4.A  | 01.1122      |  Tanner, von Rogall     | Das Programm teilt die Teilnehmer automatisch den Kursen zu.          |     120min          |
-| 4.B  | 01.1122      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Prirität.           |     120min          |
-| 4.C  | 01.1122      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     120min          |
-| 4.D  | 01.1122      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
+| 2.A  | 01.11.22      |   Marku        | Die Eingaben der Favouriten des Benutzers werden gespeichert.  |   60min   |
+| 2.B  | 01.11.22      | Marku     | Das Programm ist absturzsicher.         |     15min          |
+| 2.C  | 01.11.22      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     40min   |
+| 3.A  | 01.11.22      |  Atputharasa     | Alle Eingaben des Benutzers werden in eine Datei abgespeichert.  |  90min  |
+| 3.B  | 01.11.22      |  Atputharasa     | Der Benutzer kann den Speicherort und den Namen der Datei frei wählen.             |     25min          |
+| 3.C  | 01.11.22      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
+| 3.D  | 01.11.22      |  Atputharasa     | Das Programm ist absturzsicher.            |     15min          |
+| 4.A  | 08.11.22      |  Tanner, von Rogall     | Das Programm teilt die Teilnehmer automatisch den Kursen zu.          |     120min          |
+| 4.B  | 08.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Prirität.           |     120min          |
+| 4.C  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     120min          |
+| 4.D  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
 
 
 Total: 725min
