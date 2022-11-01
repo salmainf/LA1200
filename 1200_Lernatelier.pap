@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="6729390AA19C1854">
+  <PROJECT FORMAT="1.00" NAME="1200_Lernatelier" AUTHOR="erikm" CREATED="2022.10.25 09:51:19" MODIFIED="2022.10.25 10:38:25">
+    <DIAGRAMS>
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="Hauptprogramm 1" CREATED="2022.10.25 09:51:30" MODIFIED="2022.10.25 10:38:25">
+        <LAYOUT FORMAT="1.00" COLUMNS="1" ROWS="20">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[Hauptprogramm 1]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="2">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="18">
+                <TEXT><![CDATA[definiere Variablen]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="3">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="38">
+                <TEXT><![CDATA[Benutzer wird nach dem Namen und der Emailadresse gefragt]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="4">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="40">
+                <TEXT><![CDATA[Eingabe von Namen und Emailadresse des benutzers]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="5">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Zeigt Aushwahl von Workshops]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="6">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Wird nach der 1 Wahl gefragt]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="7">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="8">
+                <TEXT><![CDATA[Eingabe von 1 Wahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="8">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="20">
+                <TEXT><![CDATA[Eingabe speichern]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="9">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="10">
+                <TEXT><![CDATA[Entscheiden sie sich für ihre zweite Wahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="10">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="12">
+                <TEXT><![CDATA[Eingabe von 2 Wahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="11">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="22">
+                <TEXT><![CDATA[Eingabe speichern]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="12">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="14">
+                <TEXT><![CDATA[Entscheiden sie sich für ihre dritte Wahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="13">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="16">
+                <TEXT><![CDATA[Eingabe von 3 Wahl]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="14">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="24">
+                <TEXT><![CDATA[Eingabe speichern]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="15">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="36">
+                <TEXT><![CDATA[Eine Datei mit der Mail und den Prioritäten der Beutzer wird erstellt]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="16">
+              <FIGURE SUBTYPE="PapModule" FORMAT="1.00" ID="30">
+                <TEXT><![CDATA[Teilnehmer werden in die Workshops zugeteilt (jedes Workshop mind. 4 und max. 20 Teilnehemr)]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="17">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="32">
+                <TEXT><![CDATA[Das Programm teilt die Benutzer best möglich nach ihren eingegebenen Prioritäten in die Kurse ein]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="18">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="34">
+                <TEXT><![CDATA[Liste der vollständigen Kurse]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="19">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="18" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="6" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="8" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="9" FROM="8" TO="20" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="11" FROM="10" TO="12" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="13" FROM="12" TO="22" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="15" FROM="14" TO="16" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="17" FROM="16" TO="24" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="19" FROM="18" TO="38" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="21" FROM="20" TO="10" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="23" FROM="22" TO="14" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="31" FROM="30" TO="32" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="37" FROM="36" TO="30" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="25" FROM="24" TO="36" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="33" FROM="32" TO="34" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="35" FROM="34" TO="2" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="39" FROM="38" TO="40" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="41" FROM="40" TO="4" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+    </DIAGRAMS>
+  </PROJECT>
+</FRAME>
