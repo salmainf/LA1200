@@ -4,8 +4,6 @@ Gruppenprojekt von Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 
 Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
@@ -19,7 +17,7 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshops. Man soll seine drei Favoriten angeben können und dann soll der Benutzer basierend seiner Eingabe einem Workshop zugeteilt werden. Die Liste der Workshops und Ihren zugeteilten Teilnehmern wird am Schluss ausgegeben. 
 
 ### 1.2 User Stories
 
@@ -55,7 +53,7 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 01.11.22     |   Angelov        |    Die Eingabe des Namen des Benutzers wird gespeichert. |    40min    |
 | 1.B  | 08.11.22      |    Angelov       |     Das Programm ist absturzsicher.       |   20min      |
-| 2.A  | 01.11.22      |   Marku        | Die Eingaben der Favouriten des Benutzers werden gespeichert.  |   60min   |
+| 2.A  | 01.11.22      |   Marku        | Die Eingaben der Favoriten des Benutzers werden gespeichert.  |   60min   |
 | 2.B  | 08.11.22      | Marku     | Das Programm ist absturzsicher.         |     15min          |
 | 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     40min   |
 | 3.A  | 01.11.22      |  Atputharasa     | Alle Eingaben des Benutzers werden in eine Datei abgespeichert.  |  90min  |
@@ -63,16 +61,13 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 | 3.C  | 08.11.22      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
 | 3.D  | 08.11.22      |  Atputharasa     | Das Programm ist absturzsicher.            |     15min          |
 | 4.A  | 01.11.22      |  Tanner, von Rogall     | Das Programm teilt die Teilnehmer automatisch den Kursen zu.          |     120min          |
-| 4.B  | 01.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Prirität.           |     120min          |
+| 4.B  | 01.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Priorität.           |     120min          |
 | 4.C  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     120min          |
 | 4.D  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
 
 
 Total: 725min
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
