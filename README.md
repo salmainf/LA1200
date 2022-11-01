@@ -44,6 +44,7 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 
 ### 1.4 Diagramme
 
+<img width="129" alt="image" src="https://user-images.githubusercontent.com/110892351/199209496-f9373377-7b44-4204-80ce-f9f17155f529.png">
 
 
 ## 2 Planen
