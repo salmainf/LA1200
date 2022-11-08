@@ -17,15 +17,15 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 ### 1.1 Ihr Projekt
 
-In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshops. Man soll seine drei Favoriten angeben können und dann soll der Benutzer basierend seiner Eingabe einem Workshop zugeteilt werden. Die Liste der Workshops und Ihren zugeteilten Teilnehmern wird am Schluss ausgegeben. 
+In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshops. Man soll seine drei Favoriten angeben können und dann soll der Benutzer basierend auf  seiner Eingabe einem Workshop zugeteilt werden. Die Liste der Workshops und Ihren zugeteilten Teilnehmern wird am Schluss ausgegeben. 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |   Muss              | Funktional     | Als ein Kunde möchte ich, dass der Benutzer seinen Namen eingeben kann, damit das Programm weiss wem es die favourisierten Kurse zuteilt.|
-| 2  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass der Benutzer zwischen einer Auswahl an Kursen 3 Favouriten auswählen kann. |
-| 3  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass das Programm den Namen des Benutzers, gefolgt von dessen drei Favouriten, in eine Textdatei abspeichert, damit man eine übersichtliche Auflistung aller Teilnehmer hat.                                  |
+| 1    |   Muss              | Funktional     | Als ein Kunde möchte ich, dass der Benutzer seinen Namen eingeben kann, damit das Programm weiss wem es die favorisierten Kurse zuteilt.|
+| 2  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass der Benutzer zwischen einer Auswahl an Kursen 3 Favoriten auswählen kann. |
+| 3  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass das Programm den Namen des Benutzers, gefolgt von dessen drei Favoriten, in eine Textdatei abspeichert, damit man eine übersichtliche Auflistung aller Teilnehmer hat.                                  |
 | 4  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass das Programm die Benutzer automatisch den Kursen zuteilt, bestmöglich bekommt jeder Teilnehmer den Kurs seiner höchsten Priortät, damit jeder Benutzer zufriedengestellt wird.                                  |
 | 5  |   Muss              |  Funktional     |  Als ein Kunde möchte ich, dass das Programm die Workshops so einteilt, dass jeder Workshop mindestens 4 und maximal 20 Teilnehmer besitzt, damit die Workshops stattfinden können.|                                  
 
@@ -34,10 +34,10 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Apk gestartet, wartet auf Benutzereingabe            | angel.angelov@bbbaden.ch (mail)        | Geben sie bitte ihre Erste Priorität                  |
-| 2.1  |   Apk gestartet, wartet auf Benutzereingabe            |  Basketball       |  Geben sie bitte ihre zweite Priorität                 |
-| 3.1  |   Apk gestartet, wartet auf Benutzereingabe            | Volleyball        | Geben sie bitte ihre zweite Priorität                  |
-| 4.1  |   Apk gestartet, wartet auf Benutzereingabe            | Fussball        | angel.angelov@bbbaden.ch;Fussball;Volleyball;Basketball Möchten sie noch ein Person eingeben [y|n]|
+| 1.1  |   Apk gestartet, wartet auf Benutzereingabe            | angel.angelov@bbbaden.ch (Mail)        | Geben Sie bitte Ihre Erste Priorität ein                |
+| 2.1  |   Apk gestartet, wartet auf Benutzereingabe            |  Basketball       |  Geben Sie bitte Ihre zweite Priorität ein               |
+| 3.1  |   Apk gestartet, wartet auf Benutzereingabe            | Volleyball        | Geben Sie bitte Ihre zweite Priorität ein                 |
+| 4.1  |   Apk gestartet, wartet auf Benutzereingabe            | Fussball        | angel.angelov@bbbaden.ch;Fussball;Volleyball;Basketball Möchten sie noch eine Person eingeben [y|n]|
 | 5.1  |   Apk gestartet, wartet auf Benutzereingabe            |  nein       |  Programm wird beendet                 |
 
 
