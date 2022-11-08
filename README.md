@@ -47,6 +47,8 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 <img width="129" alt="image" src="https://user-images.githubusercontent.com/110892351/199209496-f9373377-7b44-4204-80ce-f9f17155f529.png">
 
 
+
+
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
@@ -60,10 +62,12 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 | 3.B  | 01.11.22      |  Atputharasa     | Der Benutzer kann den Speicherort und den Namen der Datei frei wählen.             |     25min          |
 | 3.C  | 08.11.22      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
 | 3.D  | 08.11.22      |  Atputharasa     | Das Programm ist absturzsicher.            |     15min          |
-| 4.A  | 01.11.22      |  Tanner, von Rogall     | Das Programm teilt die Teilnehmer automatisch den Kursen zu.          |     120min          |
-| 4.B  | 01.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Priorität.           |     120min          |
-| 4.C  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     120min          |
-| 4.D  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
+| 4.A  | 01.11.22      |  Tanner, von Rogall     | Das Programm schaut, welche Kurse die Mindestanforderung (4 Teilnehmer) erfüllen.         |     60min          |
+| 4.B  | 01.11.22      |  Tanner, von Rogall     | Das Programm wählt mit Hilfe einer Nutzwertanalyse die Kurse aus (Anzahl Teinehmer / 4), die am meisten gewählt wurden.          |     90min          |
+| 4.C  | 01.11.22      |  Tanner, von Rogall     | Die Teilnehmer werden den vom Programm ausgewählten Kursen zugeteilt.          |     120min          |
+| 4.D  | 01.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Priorität.           |     120min          |
+| 4.E  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     60min          |
+| 4.F  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
 
 
 Total: 725min
