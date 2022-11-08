@@ -9,9 +9,9 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   25.10.22    | 0.0.1   | IPE-Erstellen der Projektdokumentation, Informieren, Planen und Entscheiden |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   25.10.22    | 0.0.1   | IPE-Erstellen der Projektdokumentation, Informieren, Planen und Entscheiden 
+|   01.11.22    |0.0.2 |  Implementieren der zugeteilten Arbeitspackete                                                          |
+|  08.11.22     | 0.0.3   |            Implementieren der übrigen Arbeitspackete                                                     |
 
 ## 1 Informieren
 
