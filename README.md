@@ -126,4 +126,4 @@ Alle Testfälle haben perfekt funktioniert. Es gab keine Probleme.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[link](https://github.com/salmainf/LA1200-Lernbericht)
