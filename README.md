@@ -74,7 +74,9 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 
 Total: 725min
 
+## 3 Entscheiden
 
+Die Projektleiterin hat mit Absprache der Gruppe die Arbeitspackete fair verteilt, sodass jedes Mitglied zum implementieren beiträgt. Somit geht es auch mit der Zeiteinteilung gut auf.
 
 ## 4 Realisieren
 
@@ -111,8 +113,7 @@ Total:805min
 | 5.1  |   15.11.22     |    Funktioniert      |     Atputharasa   |
 |6.1| 15.11.22| Funktioniert| von Rogall|
 
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Alle Testfälle haben perfekt funktioniert. Es gab keine Probleme.
 
 ### 5.2 Exploratives Testen
 
