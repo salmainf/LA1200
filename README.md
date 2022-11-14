@@ -11,7 +11,8 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 | ----- | ------- | ------------------------------------------------------------ |
 |   25.10.22    | 0.0.1   | IPE-Erstellen der Projektdokumentation, Informieren, Planen und Entscheiden 
 |   01.11.22    |0.0.2 |  Implementieren der zugeteilten Arbeitspackete                                                          |
-|  08.11.22     | 0.0.3   |            Implementieren der übrigen Arbeitspackete                                                     |
+|  08.11.22     | 0.0.3   |            Implementieren der übrigen Arbeitspackete, abschliessen des Realisierens                                                    |
+| 15.11.22|0.0.4| Erstellen des Lernberichts, Abgabe des Projektes|
 
 ## 1 Informieren
 
@@ -73,18 +74,28 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 Total: 725min
 
 
-## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |01.11.22       |     Angelov            |       40min          |     30min              |
+| 1.B|   08.11.22    |      Angelov           |           20min    |              20min     |
+| 2.A  | 01.11.22      |       Marku       |              60min   |             60min      |
+| 2.B  |       08.11.22|      Marku        |             15min     |              15min     |
+| 2.C  |08.11.22       |       Marku       |    40min             |             40min      |
+| 3.A  |    |01.11.22   |        Atputharasa         |          90min       |     90min              |
+| 3.B  |   |01.11.22    |      Atputharasa           |           25min    |       25min            |
+| 3.C  |   08.11.22    |       Atputharasa          |              30min |        30min           |
+| 3.D  |   08.11.22    |       Atputharasa          |      15min            |       15min            |
+| 4.A  | |01.11.22      |      Tanner, von Rogall      |      60min           |       70min            |
+| 4.B  | |01.11.22      |      Tanner, von Rogall      |          90min     |         90min          |
+| 4.C  |  |01.11.22     |      Tanner, von Rogall      |          120min     |         120min          |
+| 4.D  |  |01.11.22     |       Tanner, von Rogall     |            120min   |       120min            |
+| 4.E  |  08.11.22     |        Tanner, von Rogall    |           60min      |        60min           |
+| 4.F  |  08.11.22     |        Tanner, von Rogall    |            30min   |      20min             |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Total:805min
 
 ## 5 Kontrollieren
 
