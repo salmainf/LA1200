@@ -1,8 +1,8 @@
-#LA1200 
+# LA1200
 
 Gruppenprojekt von Angelov, Atputharasa,Marku,Tanner,von Rogall
 
-# Projekt-Dokumentation
+## Projekt-Dokumentation
 
 
 Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
