@@ -37,9 +37,10 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Apk gestartet, wartet auf Benutzereingabe            | angel.angelov@bbbaden.ch (Mail)        | Geben Sie bitte Ihre Erste Priorität ein                |
 | 2.1  |   Apk gestartet, wartet auf Benutzereingabe            |  Basketball       |  Geben Sie bitte Ihre zweite Priorität ein               |
-| 3.1  |   Apk gestartet, wartet auf Benutzereingabe            | Volleyball        | Geben Sie bitte Ihre zweite Priorität ein                 |
-| 4.1  |   Apk gestartet, wartet auf Benutzereingabe            | Fussball        | angel.angelov@bbbaden.ch;Fussball;Volleyball;Basketball Möchten sie noch eine Person eingeben [y|n]|
+| 3.1  |   Apk gestartet, wartet auf Benutzereingabe            | Volleyball        | Geben Sie bitte Ihre dritte Priorität ein                 |
+| 4.1  |   Apk gestartet, wartet auf Benutzereingabe            | Fussball        | angel.angelov@bbbaden.ch;Basketball;Volleyball;Fussball Möchten sie noch eine Person eingeben [y|n]|
 | 5.1  |   Apk gestartet, wartet auf Benutzereingabe            |  nein       |  Programm wird beendet                 |
+|6.1| Apk gestartet, warten auf Eingabe | 78| Fehlermeldung|
 
 
 
@@ -103,8 +104,13 @@ Total:805min
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   15.11.22    |   Funktioniert       |   Angelov     |
+|  2.1 | 15.11.22       |     Funktioniert     |   Angelov     |
+| 3.1  | 15.11.22       |    Funktioniert      |       Marku |
+|  4.1 |  15.11.22      |   Funktioniert       |       Marku |
+| 5.1  |   15.11.22     |    Funktioniert      |     Atputharasa   |
+|6.1| 15.11.22| Funktioniert| von Rogall|
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
