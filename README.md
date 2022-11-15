@@ -12,7 +12,7 @@ Elefant:Angelov, Atputharasa,Marku,Tanner,von Rogall
 |   25.10.22    | 0.0.1   | IPE-Erstellen der Projektdokumentation, Informieren, Planen und Entscheiden 
 |   01.11.22    |0.0.2 |  Implementieren der zugeteilten Arbeitspackete                                                          |
 |  08.11.22     | 0.0.3   |            Implementieren der übrigen Arbeitspackete, abschliessen des Realisierens                                                    |
-| 15.11.22|0.0.4| Erstellen des Lernberichts, Abgabe des Projektes|
+| 15.11.22|1.0.0| Projekt ist abgeschlossen|
 
 ## 1 Informieren
 
