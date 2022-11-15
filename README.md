@@ -58,8 +58,9 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 | 1.A  | 01.11.22     |   Angelov        |    Die Eingabe des Namen des Benutzers wird gespeichert. |    40min    |
 | 1.B  | 08.11.22      |    Angelov       |     Das Programm ist absturzsicher.       |   20min      |
 | 2.A  | 01.11.22      |   Marku        | Die Eingaben der Favoriten des Benutzers werden gespeichert.  |   60min   |
-| 2.B  | 08.11.22      | Marku     | Das Programm ist absturzsicher.         |     15min          |
-| 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     40min   |
+| 2.B  | 08.11.22      | Marku     | Das Programm ist absturzsicher.         |     20min          |
+| 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     25min   |
+| 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe einem schon gewählten Kurs entspricht, muss die Eingabe wiederholt werden.          |     25min   |
 | 3.A  | 01.11.22      |  Atputharasa     | Alle Eingaben des Benutzers werden in eine Datei abgespeichert.  |  90min  |
 | 3.B  | 01.11.22      |  Atputharasa     | Der Benutzer kann den Speicherort und den Namen der Datei frei wählen.             |     25min          |
 | 3.C  | 08.11.22      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
@@ -68,11 +69,11 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 | 4.B  | 01.11.22      |  Tanner, von Rogall     | Das Programm wählt mit Hilfe einer Nutzwertanalyse die Kurse aus (Anzahl Teinehmer / 4), die am meisten gewählt wurden.          |     90min          |
 | 4.C  | 01.11.22      |  Tanner, von Rogall     | Die Teilnehmer werden den vom Programm ausgewählten Kursen zugeteilt.          |     120min          |
 | 4.D  | 01.11.22      |  Tanner, von Rogall     | Im besten Fall bekommt jeder Teilnehmer den Kurs der höchsten Priorität.           |     120min          |
-| 4.E  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     60min          |
-| 4.F  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
+| 5.A  | 08.11.22      |  Tanner, von Rogall     | Jeder Kurs kann mindestens 4 & maximal 20 Teilnehmer haben.          |     60min          |
+| 5.B  | 08.11.22      |  Tanner, von Rogall     | Das Programm ist absturzsicher.             |     30min          |
 
 
-Total: 725min
+Total: 830min
 
 ## 3 Entscheiden
 
