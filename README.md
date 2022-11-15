@@ -86,21 +86,21 @@ Die Projektleiterin hat mit Absprache der Gruppe die Arbeitspackete fair verteil
 | 1.A  |01.11.22       |     Angelov       |       40min       |     35min              |
 | 1.B  |   08.11.22    |      Angelov      |           20min   |              25min     |
 | 2.A  | 01.11.22      |       Marku       |              60min|             60min      |
-| 2.B  |       08.11.22|      Marku        |             20min |              20min     |
+| 2.B  |       08.11.22|      Marku        |             20min |              25min     |
 | 2.C  |08.11.22       |       Marku       |    25min          |             30min      |
 | 2.D  |08.11.22       |       Marku       |    25min          |             30min      |
 | 3.A  |    01.11.22  |  Atputharasa      |          90min    |     90min              |
-| 3.B  |   01.11.22   |      Atputharasa  |           25min   |       30min            |
+| 3.B  |   01.11.22   |      Atputharasa  |           25min   |       35min            |
 | 3.C  |   08.11.22    |       Atputharasa |              30min|        30min           |
-| 3.D  |   08.11.22    |       Atputharasa |      15min        |       20min            |
-| 4.A  | 01.11.22     |Tanner, von Rogall |      60min        |       70min            |
+| 3.D  |   08.11.22    |       Atputharasa |      15min        |       25min            |
+| 4.A  | 01.11.22     |Tanner, von Rogall |      60min        |       75min            |
 | 4.B  | 01.11.22     |Tanner, von Rogall |          90min    |         100min          |
 | 4.C  |  01.11.22    |Tanner, von Rogall |          120min   |         120min         |
 | 4.D  |  01.11.22    |Tanner, von Rogall |            120min |       120min           |
 | 5.A  |  08.11.22     |Tanner, von Rogall |           60min   |        75min           |
 | 5.B  |  08.11.22     |Tanner, von Rogall |            30min  |      15min             |
 
-Total:815min
+Total:890min
 
 ## 5 Kontrollieren
 
