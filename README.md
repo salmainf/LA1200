@@ -115,15 +115,6 @@ Total:805min
 
 Alle Testfälle haben perfekt funktioniert. Es gab keine Probleme.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
 ## 6 Auswerten
 
 [Lernbericht LA1200](https://github.com/salmainf/LA1200-Lernbericht)
