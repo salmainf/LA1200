@@ -60,7 +60,7 @@ In unserem Projekt erstellen wir mit C# eine Anmeldung zu verschiedenen Workshop
 | 2.A  | 01.11.22      |   Marku        | Die Eingaben der Favoriten des Benutzers werden gespeichert.  |   60min   |
 | 2.B  | 08.11.22      | Marku     | Das Programm ist absturzsicher.         |     20min          |
 | 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe keinem Kurs entspricht, muss die Eingabe wiederholt werden.          |     25min   |
-| 2.C  | 08.11.22      |  Marku     | Wenn eine Eingabe einem schon gewählten Kurs entspricht, muss die Eingabe wiederholt werden.          |     25min   |
+| 2.D  | 08.11.22      |  Marku     | Wenn eine Eingabe einem schon gewählten Kurs entspricht, muss die Eingabe wiederholt werden.          |     25min   |
 | 3.A  | 01.11.22      |  Atputharasa     | Alle Eingaben des Benutzers werden in eine Datei abgespeichert.  |  90min  |
 | 3.B  | 01.11.22      |  Atputharasa     | Der Benutzer kann den Speicherort und den Namen der Datei frei wählen.             |     25min          |
 | 3.C  | 08.11.22      |  Atputharasa     | Nicht existierende Speicherorte geben einen Fehler aus und der Benutzer muss die Eingabe erneut tätigen.   | 30min  |
@@ -86,8 +86,9 @@ Die Projektleiterin hat mit Absprache der Gruppe die Arbeitspackete fair verteil
 | 1.A  |01.11.22       |     Angelov       |       40min       |     30min              |
 | 1.B  |   08.11.22    |      Angelov      |           20min   |              20min     |
 | 2.A  | 01.11.22      |       Marku       |              60min|             60min      |
-| 2.B  |       08.11.22|      Marku        |             15min |              15min     |
-| 2.C  |08.11.22       |       Marku       |    40min          |             40min      |
+| 2.B  |       08.11.22|      Marku        |             20min |              15min     |
+| 2.C  |08.11.22       |       Marku       |    25min          |             25min      |
+| 2.D  |08.11.22       |       Marku       |    25min          |             25min      |
 | 3.A  |    01.11.22  |  Atputharasa      |          90min    |     90min              |
 | 3.B  |   01.11.22   |      Atputharasa  |           25min   |       25min            |
 | 3.C  |   08.11.22    |       Atputharasa |              30min|        30min           |
@@ -96,10 +97,10 @@ Die Projektleiterin hat mit Absprache der Gruppe die Arbeitspackete fair verteil
 | 4.B  | 01.11.22     |Tanner, von Rogall |          90min    |         90min          |
 | 4.C  |  01.11.22    |Tanner, von Rogall |          120min   |         120min         |
 | 4.D  |  01.11.22    |Tanner, von Rogall |            120min |       120min           |
-| 4.E  |  08.11.22     |Tanner, von Rogall |           60min   |        60min           |
-| 4.F  |  08.11.22     |Tanner, von Rogall |            30min  |      20min             |
+| 5.A  |  08.11.22     |Tanner, von Rogall |           60min   |        60min           |
+| 5.B  |  08.11.22     |Tanner, von Rogall |            30min  |      20min             |
 
-Total:805min
+Total:815min
 
 ## 5 Kontrollieren
 
